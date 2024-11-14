@@ -16,7 +16,3 @@ E aí, beleza? Sou designer e ilustrador desde 2016, e agora estou no mundo dev 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png?f=webp&w=256" alt="JAVA"/></code>
 
 ---
-
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
