@@ -20,5 +20,6 @@ Bacharelado de engenharia de software que estou cursando agora em 2025, e preten
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png?f=webp&w=256" alt="JAVA"/></code>
+<code><img height="32" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png"/></code>
 
 ---
